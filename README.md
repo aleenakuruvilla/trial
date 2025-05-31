@@ -2,13 +2,13 @@
 
 ### I'm a Software Developer and Engineer
 
-I'm currently a final-year Computer Engineering student at Jyothi Engineering College, Kerala. I’m passionate about building smart, impactful tech — from full-stack applications to AI-powered systems and IoT integrations.
+I'm a computer engineering graduate. I’m passionate about building smart, impactful tech — from full-stack applications to AI-powered systems and IoT integrations.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Final Year BTech Student – Computer Engineering @ JECC
+- 🎓 Computer Engineering @ JECC
 - 💻 Tech Stack: React, React Native, Firebase, Python, C++, ESP32, OpenCV
 - 🧠 Interested in Data Analytics, Machine Learning & IoT
 - 🤝 Served as Vice Chairperson – Computer Engineering Students Association 2024-25
